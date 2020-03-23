@@ -1,6 +1,4 @@
 {
-    "title": "Recipe Recruitment",
-    "version": 0.1,
     "results": [
         {
             "title": "Activia Blueberry Muffins",
@@ -54,13 +52,13 @@
             "title": "Banana Bread With Jujube And Chocolate",
             "href": "https://www.ocado.com/webshop/recipe/Banana-Bread-With-Jujube-And-Chocolate/112361?selectedCategories=46108",
             "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/2755805.jpg?Rtyg",
-            "ingredients": "180g banana, ripe,3 tbsps raw cacao powder,2 tbsps coconut oil,60g coconut sugar,2 eggs,114g ground almonds,70g oat flour,2 cups dried Jujube Fruits, roughly chopped,1 handful Jujube Crisps,2 tsp bicarbonate of soda,1 tsp baking powder,1 pinch salt,1 dash cinnamon ,2 good handfuls dark chocolate chips, (optional)"
+            "ingredients": "180g banana, ripe,3 tbsps raw cacao powder,2 tbsps coconut oil,60g coconut sugar,2 eggs,114g ground almonds,70g oat flour,2 cups dried Jujube Fruits, roughly chopped,1 handful Jujube Crisps"
         },
         {
             "title": "Banana Bread and Butter Pudding",
             "href": "https://www.ocado.com/webshop/recipe/Banana-Bread-and-Butter-Pudding/55733?selectedCategories=46108",
             "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/2114519.jpg?Lseg",
-            "ingredients": "1 loaf thick sliced white bread,300g butter, 200g and 100g for the sauce,150g demerara sugar,3 bananas, cut into slices,6 eggs, 3 whole eggs, and 3 egg yolks,600ml double cream, 500 ml and 100ml for the sauce,100g caster sugar,1 dash vanilla extract,9 dates, chopped,100g soft dark brown sugar"
+            "ingredients": "1 loaf thick sliced white bread,300g butter, 200g and 100g for the sauce,150g demerara sugar,3 bananas, cut into slices,6 eggs, 3 whole eggs, and 3 egg yolks"
         },
         {
             "title": "Banana Cupcakes",
@@ -78,31 +76,13 @@
             "title": "Banana, Coconut & Honey Cake",
             "href": "https://www.ocado.com/webshop/recipe/Banana-Coconut--Honey-Cake/97334?selectedCategories=46108",
             "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/2585888.jpg?QhfE",
-            "ingredients": "150g unsalted butter, melted and slightly cooled,80g light brown sugar,4 large eggs,50ml runny honey, (Hilltop Raw Thyme Honey gives a delicious flavour), plus extra to drizzle,4 tbsp coconut flour,2 bananas, (very ripe) mashed,3 soft dried figs, finely chopped,1 tbsp desiccated coconut,1 tub ricotta, to serve (optional)"
+            "ingredients": "150g unsalted butter, melted and slightly cooled,80g light brown sugar,4 large eggs,50ml runny honey, (Hilltop Raw Thyme Honey gives a delicious flavour)"
         },
         {
             "title": "Berry Madeleines",
             "href": "https://www.ocado.com/webshop/recipe/Berry-Madeleines/51154?selectedCategories=46108",
             "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/2070873.jpg?LI9E",
             "ingredients": "3 eggs , large ,150g caster sugar , 120g for the madeleines, 30g for the sauce,200g flour ,120g butter ,1 tsp baking powder,1 lemon , large,350g mixed berries , 200g for the sauce, 150 for the madeleines "
-        },
-        {
-            "title": "Berry Spooky Halloween Cupcakes",
-            "href": "https://www.ocado.com/webshop/recipe/Berry-Spooky-Halloween-Cupcakes/134097?selectedCategories=46108",
-            "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/3345951.jpg?TsVk",
-            "ingredients": "120g butter, at room temperature,120g sugar,2 eggs, at room temperature,120g self-raising flour,250g icing sugar,  (for the icing),1 bottle capful orange food colouring,1 gel icing tube,1 packet liquorice laces,1 packet strawberry laces,6 blackberries,6 blueberries,6 raspberries"
-        },
-        {
-            "title": "Berry and White Chocolate Cake",
-            "href": "https://www.ocado.com/webshop/recipe/Berry-and-White-Chocolate-Cake/134453?selectedCategories=46108",
-            "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/3431090.jpg?Twkg",
-            "ingredients": "1250g unsalted butter, softened (500g for the cake, 750g for the frosting),500g golden caster sugar,10 eggs,500g self raising flour, (sieved),1 tsp baking powder,10g raspberry powder,30g acai powder,470g icing sugar,150g white chocolate,5 white chocolate truffles,1 jar raspberry jam,1 punnet fresh edible flowers"
-        },
-        {
-            "title": "BerryWorld Strawberry, Rose and",
-            "href": "https://www.ocado.com/webshop/recipe/BerryWorld-Strawberry-Rose-and-Pistachio-Pavlova/122282?selectedCategories=46108",
-            "thumbnail": "https://www.ocado.com/cmscontent/recipe_image_med/2921899.png?SgEA",
-            "ingredients": "6 large egg whites,250g caster sugar,1 tsp rose water extract ,1 tsp white wine vinegar,1 tsp corn,100g pistachios, crushed ,475ml double cream,1 tbsp icing sugar,450g strawberries, cut in half (keep 3-4 whole strawberries to garnish)"
         },
         {
             "title": "Black Garlic Brownies",
